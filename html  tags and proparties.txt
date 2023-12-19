@@ -1,0 +1,108 @@
+link tag= <a href="https://www.muo.com">Go to Site</a>
+video tag = <video src="yourvideo.mp4" controls />
+break tag = <p><br></p>
+title tag = <h1>Big and Important Header.</h1>
+            <h2>Slightly Less Big Header</h2>
+             <h6>Sub-Header</h6>
+font size = font-size:50px;
+img tag = <img src="wp-content/uploads/sun-birds.jpg">
+style colour text= My Mother has <span style="color:blue">blue</span>eyes
+ unordered list= <ul><li>First item</li><li>Second item</li><li>Third item</li></ul>
+ordered list = <ol><li>First item</li><li>Second item</li><li>Third item</li></ol>
+CSS 
+margin = margin-right: 20px;
+                top
+                bottom
+                left
+padding = padding-right: 20px;
+                   top
+                 bottom
+                  left
+text align center = text-align:center;
+text align left = text-align:left;
+text align right = text-align:right;
+text align justify = text-align:justify;
+font size= font-size:1.4em;
+           font-size:15px;
+           font-size:smaller;
+           font-size:x-small;
+background colour = background-color: red;
+colour = color: brown;
+wwidth = width: 150px;
+line hight = line-height: 2.5;
+Inline Elements in HTML
+
+(Centering Not Supported)
+
+Link Tag
+
+<a>
+
+Image Tag
+
+<img>
+
+Video Tag
+
+<video>
+
+Bold Tag
+
+<b>
+
+Break Tag
+
+<br>
+
+Italic Tag
+
+<i>
+
+Span Tag
+
+<span>
+
+Button Tag
+
+<button>
+
+Emphasis Tag
+
+<em>
+
+Block Level Elements in HTML
+
+(Centering Supported)
+
+Division Tag
+
+<div>
+
+Heading Tag
+
+<h1>...<h6>
+
+Paragraph Tag
+
+<p>
+
+Horizontal Rule Tag
+
+<hr>
+
+Unordered Tag
+
+<ul>
+
+Ordered Tag
+
+<ol>
+
+List Tag
+
+<li>
+
+Get New Videos In Your Inbox
+Email
+Subscribe
+
